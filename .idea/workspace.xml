@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f449e89e-0fd2-44cb-ac12-35f452740e92" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1elTTlOQCCcPvuHHJV7IftvevAp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/trend-trading-backtest-view/src/main/resources/static" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="show.run.dashboard.notification" value="false" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\ideaProject\trendProject\trend-trading-backtest-view\src\main\resources\templates\includes" />
+      <recent name="E:\ideaProject\trendProject\index-gather-store-service\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="configuration" />
+      <recent name="com.how2j.trend.controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\ideaProject\trendProject\trend-trading-backtest-view\src\main\resources\static" />
+      <recent name="E:\ideaProject\trendProject\index-data-service\src\main\java" />
+      <recent name="E:\ideaProject\trendProject\index-data-service\src\main\resources" />
+      <recent name="E:\ideaProject\trendProject\index-codes-service\src\main\java" />
+      <recent name="E:\ideaProject\trendProject\third-part-index-data-project\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.TrendTradingBackTestServiceApplication">
+    <configuration name="IndexDataApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="index-data-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.test.IndexDataApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IndexGatherStoreApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="index-gather-store-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.how2j.trend.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.how2j.trend.IndexGatherStoreApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThirdPartIndexDataApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="third-part-index-data-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.how2j.trend.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.how2j.trend.ThirdPartIndexDataApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrendTradingBackTestServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="trend-trading-backtest-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.test.TrendTradingBackTestServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrendTradingBackTestViewApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="trend-trading-backtest-view" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.test.TrendTradingBackTestViewApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.TrendTradingBackTestViewApplication" />
+      <item itemvalue="Spring Boot.ThirdPartIndexDataApplication" />
+      <item itemvalue="Spring Boot.IndexGatherStoreApplication" />
+      <item itemvalue="Spring Boot.TrendTradingBackTestServiceApplication" />
+      <item itemvalue="Spring Boot.IndexDataApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.TrendTradingBackTestServiceApplication" />
+        <item itemvalue="Spring Boot.TrendTradingBackTestViewApplication" />
+        <item itemvalue="Spring Boot.IndexDataApplication" />
+        <item itemvalue="Spring Boot.IndexGatherStoreApplication" />
+        <item itemvalue="Spring Boot.ThirdPartIndexDataApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f449e89e-0fd2-44cb-ac12-35f452740e92" name="Default Changelist" comment="" />
+      <created>1594895189582</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594895189582</updated>
+      <workItem from="1594895192784" duration="4879000" />
+      <workItem from="1595386377783" duration="12483000" />
+      <workItem from="1595470208732" duration="2544000" />
+      <workItem from="1595472809792" duration="3431000" />
+      <workItem from="1595484348468" duration="15219000" />
+      <workItem from="1595815337767" duration="3499000" />
+      <workItem from="1595928014552" duration="19339000" />
+      <workItem from="1596423728805" duration="4714000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="25" key="#Project_Structure" timestamp="1595931242486">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="25" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1595931242486" />
+    <state x="137" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596004845986">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1596004845986" />
+    <state x="488" y="57" key="#com.intellij.ide.util.MemberChooser" timestamp="1596006569794">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="57" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1596006569794" />
+    <state x="413" y="147" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1595470704247">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="147" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1595470704247" />
+    <state x="412" y="153" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1595816264692">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="412" y="153" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1595816264692" />
+    <state x="519" y="333" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1595815412854">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="519" y="333" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.728@0.0.1366.728" timestamp="1595815412854" />
+    <state x="395" y="230" width="576" height="272" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1595470705043">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="395" y="230" width="576" height="272" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1595470705043" />
+    <state x="442" y="224" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1595595201193">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="442" y="224" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1595595201193" />
+    <state width="440" height="438" key="DebuggerActiveHint" timestamp="1596008186186">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="440" height="438" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1596008186186" />
+    <state x="546" y="259" key="Github.ShareDialog" timestamp="1596591574858">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="546" y="259" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1596591574858" />
+    <state width="1323" height="53" key="GridCell.Tab.0.bottom" timestamp="1596526401808">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="53" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596526401808" />
+    <state width="1323" height="53" key="GridCell.Tab.0.center" timestamp="1596526401808">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="53" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1596526401808" />
+    <state width="1323" height="53" key="GridCell.Tab.0.left" timestamp="1596526401808">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="53" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1596526401808" />
+    <state width="1323" height="53" key="GridCell.Tab.0.right" timestamp="1596526401808">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="53" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1596526401808" />
+    <state width="1323" height="53" key="GridCell.Tab.1.bottom" timestamp="1596526401812">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="53" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596526401812" />
+    <state width="1323" height="53" key="GridCell.Tab.1.center" timestamp="1596526401808">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="53" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1596526401808" />
+    <state width="1323" height="53" key="GridCell.Tab.1.left" timestamp="1596526401808">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="53" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1596526401808" />
+    <state width="1323" height="53" key="GridCell.Tab.1.right" timestamp="1596526401812">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="53" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1596526401812" />
+    <state width="1323" height="328" key="GridCell.Tab.2.bottom" timestamp="1596526114870">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="328" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596526114870" />
+    <state width="1323" height="328" key="GridCell.Tab.2.center" timestamp="1596526114870">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="328" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1596526114870" />
+    <state width="1323" height="328" key="GridCell.Tab.2.left" timestamp="1596526114870">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="328" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1596526114870" />
+    <state width="1323" height="328" key="GridCell.Tab.2.right" timestamp="1596526114870">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="328" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1596526114870" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1595474082946">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1595474082946" />
+    <state width="691" height="379" key="XDebugger.FullValuePopup" timestamp="1595487443570">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="691" height="379" key="XDebugger.FullValuePopup/0.0.1366.728@0.0.1366.728" timestamp="1595487443570" />
+    <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1595487596132">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1595487596132" />
+    <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1595474908713">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1595474908713" />
+    <state x="370" y="119" width="626" height="490" key="find.popup" timestamp="1596525715912">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="370" y="119" width="626" height="490" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1596525715912" />
+    <state x="57" y="68" key="new project wizard" timestamp="1596016243641">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="57" y="68" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1596016243641" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1595408541288">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1595408541288" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1595399438111">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1595399438111" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/index-gather-store-service/src/main/java/com/how2j/trend/IndexGatherStoreApplication.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/index-gather-store-service/src/main/java/com/how2j/trend/config/RedisCacheConfig.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/index-gather-store-service/src/main/java/com/how2j/trend/service/IndexService.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/index-codes-service/src/main/java/com/test/controller/IndexController.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/trend-trading-backtest-service/src/main/java/com/test/controller/BackTestController.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/trend-trading-backtest-service/src/main/java/com/test/service/BackTestService.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/index-data-service/src/main/java/com/test/controller/indexDataController.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

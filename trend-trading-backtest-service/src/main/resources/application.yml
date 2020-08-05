@@ -1,0 +1,22 @@
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
+spring:
+  application:
+    name:  trend-trading-backtest-service
+
+feign:
+  hystrix:
+    enabled: true
+  client:
+    config:
+      default:
+        connect-timeout: 10000
+        read-timeout: 10000
+hystrix:
+  command:
+    default:
+      execution:
+        timeout:
+          enabled: false
