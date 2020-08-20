@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f449e89e-0fd2-44cb-ac12-35f452740e92" name="Default Changelist" comment="" />
+    <list default="true" id="f449e89e-0fd2-44cb-ac12-35f452740e92" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/api/src/main/java/com/how2j/trend/pojo/Profit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/src/main/java/com/how2j/trend/pojo/Trade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/api.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-server/eureka-server.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-codes-service/target/classes/com/test/IndexCodesApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/index-codes-service/target/classes/com/test/IndexCodesApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-data-service/index-data-service.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-data-service/target/classes/com/test/IndexDataApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/index-data-service/target/classes/com/test/IndexDataApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-gather-store-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/index-gather-store-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index-zuul-service/index-zuul-service.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/third-part-index-data-project/third-part-index-data-project.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trend-trading-backtest-service/src/main/java/com/test/controller/BackTestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/trend-trading-backtest-service/src/main/java/com/test/controller/BackTestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trend-trading-backtest-service/src/main/java/com/test/service/BackTestService.java" beforeDir="false" afterPath="$PROJECT_DIR$/trend-trading-backtest-service/src/main/java/com/test/service/BackTestService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trend-trading-backtest-service/target/classes/com/test/TrendTradingBackTestServiceApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/trend-trading-backtest-service/target/classes/com/test/TrendTradingBackTestServiceApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trend-trading-backtest-service/target/classes/com/test/controller/BackTestController.class" beforeDir="false" afterPath="$PROJECT_DIR$/trend-trading-backtest-service/target/classes/com/test/controller/BackTestController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trend-trading-backtest-service/target/classes/com/test/service/BackTestService.class" beforeDir="false" afterPath="$PROJECT_DIR$/trend-trading-backtest-service/target/classes/com/test/service/BackTestService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trend-trading-backtest-service/trend-trading-backtest-service.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/trend-trading-backtest-view/src/main/resources/templates/view.html" beforeDir="false" afterPath="$PROJECT_DIR$/trend-trading-backtest-view/src/main/resources/templates/view.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trend-trading-backtest-view/target/classes/com/test/TrendTradingBackTestViewApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/trend-trading-backtest-view/target/classes/com/test/TrendTradingBackTestViewApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trend-trading-backtest-view/target/classes/templates/view.html" beforeDir="false" afterPath="$PROJECT_DIR$/trend-trading-backtest-view/target/classes/templates/view.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trend-trading-backtest-view/trend-trading-backtest-view.iml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +37,18 @@
       <list>
         <option value="Class" />
       </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\software\maven\maven_jar" />
+        <option name="mavenHome" value="D:/software/maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\software\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
     </option>
   </component>
   <component name="ProjectId" id="1elTTlOQCCcPvuHHJV7IftvevAp" />
@@ -30,24 +67,17 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/trend-trading-backtest-view/src/main/resources/static" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
     <property name="show.run.dashboard.notification" value="false" />
   </component>
   <component name="ReactorSettings">
     <option name="notificationShown" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\ideaProject\trendProject\trend-trading-backtest-view\src\main\resources\templates\includes" />
-      <recent name="E:\ideaProject\trendProject\index-gather-store-service\src\main\resources" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="configuration" />
-      <recent name="com.how2j.trend.controller" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\ideaProject\trendProject\trend-trading-backtest-view\src\main\resources\static" />
       <recent name="E:\ideaProject\trendProject\index-data-service\src\main\java" />
@@ -55,8 +85,29 @@
       <recent name="E:\ideaProject\trendProject\index-codes-service\src\main\java" />
       <recent name="E:\ideaProject\trendProject\third-part-index-data-project\src\main\resources" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="configuration" />
+      <recent name="com.how2j.trend.controller" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\ideaProject\trendProject\trend-trading-backtest-view\src\main\resources\templates\includes" />
+      <recent name="E:\ideaProject\trendProject\index-gather-store-service\src\main\resources" />
+    </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.TrendTradingBackTestServiceApplication">
+  <component name="RunManager" selected="Spring Boot.TrendTradingBackTestViewApplication">
+    <configuration name="IndexCodesApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="index-codes-com.test.service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.test.IndexCodesApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="IndexDataApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="index-data-service" />
       <extension name="coverage">
@@ -70,28 +121,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IndexGatherStoreApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="index-gather-store-service" />
+    <configuration name="IndexZuulServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="index-zuul-service" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.how2j.trend.*" />
+          <option name="PATTERN" value="com.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.how2j.trend.IndexGatherStoreApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ThirdPartIndexDataApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="third-part-index-data-project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.how2j.trend.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.how2j.trend.ThirdPartIndexDataApplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.test.IndexZuulServiceApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -123,19 +161,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Spring Boot.TrendTradingBackTestViewApplication" />
-      <item itemvalue="Spring Boot.ThirdPartIndexDataApplication" />
-      <item itemvalue="Spring Boot.IndexGatherStoreApplication" />
-      <item itemvalue="Spring Boot.TrendTradingBackTestServiceApplication" />
+      <item itemvalue="Spring Boot.IndexCodesApplication" />
       <item itemvalue="Spring Boot.IndexDataApplication" />
+      <item itemvalue="Spring Boot.IndexZuulServiceApplication" />
+      <item itemvalue="Spring Boot.TrendTradingBackTestServiceApplication" />
+      <item itemvalue="Spring Boot.TrendTradingBackTestViewApplication" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.TrendTradingBackTestServiceApplication" />
         <item itemvalue="Spring Boot.TrendTradingBackTestViewApplication" />
+        <item itemvalue="Spring Boot.TrendTradingBackTestServiceApplication" />
+        <item itemvalue="Spring Boot.IndexZuulServiceApplication" />
         <item itemvalue="Spring Boot.IndexDataApplication" />
-        <item itemvalue="Spring Boot.IndexGatherStoreApplication" />
-        <item itemvalue="Spring Boot.ThirdPartIndexDataApplication" />
+        <item itemvalue="Spring Boot.IndexCodesApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -157,6 +195,10 @@
       <workItem from="1595815337767" duration="3499000" />
       <workItem from="1595928014552" duration="19339000" />
       <workItem from="1596423728805" duration="4714000" />
+      <workItem from="1596593264656" duration="28000" />
+      <workItem from="1596594438749" duration="10518000" />
+      <workItem from="1597201189502" duration="12246000" />
+      <workItem from="1597920797557" duration="2404000" />
     </task>
     <servers />
   </component>
@@ -168,14 +210,16 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="25" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1595931242486" />
-    <state x="137" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596004845986">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="147" y="26" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597921247131">
+      <screen x="0" y="0" width="1463" height="874" />
     </state>
     <state x="137" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1596004845986" />
-    <state x="488" y="57" key="#com.intellij.ide.util.MemberChooser" timestamp="1596006569794">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="147" y="26" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1463.874@0.0.1463.874" timestamp="1597921247131" />
+    <state x="523" y="68" key="#com.intellij.ide.util.MemberChooser" timestamp="1597369513222">
+      <screen x="0" y="0" width="1463" height="874" />
     </state>
     <state x="488" y="57" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1596006569794" />
+    <state x="523" y="68" key="#com.intellij.ide.util.MemberChooser/0.0.1463.874@0.0.1463.874" timestamp="1597369513222" />
     <state x="413" y="147" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1595470704247">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -184,6 +228,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="412" y="153" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1595816264692" />
+    <state x="583" y="329" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1596594474876">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="583" y="329" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1463.874@0.0.1463.874" timestamp="1596594474876" />
     <state x="519" y="333" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1595815412854">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -192,70 +240,92 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="395" y="230" width="576" height="272" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1595470705043" />
+    <state x="268" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1597225123843">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="268" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1463.874@0.0.1463.874" timestamp="1597225123843" />
     <state x="442" y="224" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1595595201193">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="442" y="224" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1595595201193" />
-    <state width="440" height="438" key="DebuggerActiveHint" timestamp="1596008186186">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="472" height="526" key="DebuggerActiveHint" timestamp="1597227576965">
+      <screen x="0" y="0" width="1463" height="874" />
     </state>
     <state width="440" height="438" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1596008186186" />
+    <state width="472" height="526" key="DebuggerActiveHint/0.0.1463.874@0.0.1463.874" timestamp="1597227576965" />
+    <state x="452" y="113" key="FileChooserDialogImpl" timestamp="1597225644578">
+      <screen x="0" y="0" width="1463" height="874" />
+    </state>
+    <state x="452" y="113" key="FileChooserDialogImpl/0.0.1463.874@0.0.1463.874" timestamp="1597225644578" />
     <state x="546" y="259" key="Github.ShareDialog" timestamp="1596591574858">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="546" y="259" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1596591574858" />
-    <state width="1323" height="53" key="GridCell.Tab.0.bottom" timestamp="1596526401808">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1420" height="262" key="GridCell.Tab.0.bottom" timestamp="1597922779397">
+      <screen x="0" y="0" width="1463" height="874" />
     </state>
     <state width="1323" height="53" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596526401808" />
-    <state width="1323" height="53" key="GridCell.Tab.0.center" timestamp="1596526401808">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1420" height="262" key="GridCell.Tab.0.bottom/0.0.1463.874@0.0.1463.874" timestamp="1597922779397" />
+    <state width="1420" height="262" key="GridCell.Tab.0.center" timestamp="1597922779397">
+      <screen x="0" y="0" width="1463" height="874" />
     </state>
     <state width="1323" height="53" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1596526401808" />
-    <state width="1323" height="53" key="GridCell.Tab.0.left" timestamp="1596526401808">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1420" height="262" key="GridCell.Tab.0.center/0.0.1463.874@0.0.1463.874" timestamp="1597922779397" />
+    <state width="1420" height="262" key="GridCell.Tab.0.left" timestamp="1597922779396">
+      <screen x="0" y="0" width="1463" height="874" />
     </state>
     <state width="1323" height="53" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1596526401808" />
-    <state width="1323" height="53" key="GridCell.Tab.0.right" timestamp="1596526401808">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1420" height="262" key="GridCell.Tab.0.left/0.0.1463.874@0.0.1463.874" timestamp="1597922779396" />
+    <state width="1420" height="262" key="GridCell.Tab.0.right" timestamp="1597922779397">
+      <screen x="0" y="0" width="1463" height="874" />
     </state>
     <state width="1323" height="53" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1596526401808" />
-    <state width="1323" height="53" key="GridCell.Tab.1.bottom" timestamp="1596526401812">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1420" height="262" key="GridCell.Tab.0.right/0.0.1463.874@0.0.1463.874" timestamp="1597922779397" />
+    <state width="1420" height="262" key="GridCell.Tab.1.bottom" timestamp="1597922779397">
+      <screen x="0" y="0" width="1463" height="874" />
     </state>
     <state width="1323" height="53" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596526401812" />
-    <state width="1323" height="53" key="GridCell.Tab.1.center" timestamp="1596526401808">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1420" height="262" key="GridCell.Tab.1.bottom/0.0.1463.874@0.0.1463.874" timestamp="1597922779397" />
+    <state width="1420" height="262" key="GridCell.Tab.1.center" timestamp="1597922779397">
+      <screen x="0" y="0" width="1463" height="874" />
     </state>
     <state width="1323" height="53" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1596526401808" />
-    <state width="1323" height="53" key="GridCell.Tab.1.left" timestamp="1596526401808">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1420" height="262" key="GridCell.Tab.1.center/0.0.1463.874@0.0.1463.874" timestamp="1597922779397" />
+    <state width="1420" height="262" key="GridCell.Tab.1.left" timestamp="1597922779397">
+      <screen x="0" y="0" width="1463" height="874" />
     </state>
     <state width="1323" height="53" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1596526401808" />
-    <state width="1323" height="53" key="GridCell.Tab.1.right" timestamp="1596526401812">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1420" height="262" key="GridCell.Tab.1.left/0.0.1463.874@0.0.1463.874" timestamp="1597922779397" />
+    <state width="1420" height="262" key="GridCell.Tab.1.right" timestamp="1597922779397">
+      <screen x="0" y="0" width="1463" height="874" />
     </state>
     <state width="1323" height="53" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1596526401812" />
-    <state width="1323" height="328" key="GridCell.Tab.2.bottom" timestamp="1596526114870">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1420" height="262" key="GridCell.Tab.1.right/0.0.1463.874@0.0.1463.874" timestamp="1597922779397" />
+    <state width="1420" height="359" key="GridCell.Tab.2.bottom" timestamp="1597282067059">
+      <screen x="0" y="0" width="1463" height="874" />
     </state>
     <state width="1323" height="328" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596526114870" />
-    <state width="1323" height="328" key="GridCell.Tab.2.center" timestamp="1596526114870">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1420" height="359" key="GridCell.Tab.2.bottom/0.0.1463.874@0.0.1463.874" timestamp="1597282067059" />
+    <state width="1420" height="359" key="GridCell.Tab.2.center" timestamp="1597282067059">
+      <screen x="0" y="0" width="1463" height="874" />
     </state>
     <state width="1323" height="328" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1596526114870" />
-    <state width="1323" height="328" key="GridCell.Tab.2.left" timestamp="1596526114870">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1420" height="359" key="GridCell.Tab.2.center/0.0.1463.874@0.0.1463.874" timestamp="1597282067059" />
+    <state width="1420" height="359" key="GridCell.Tab.2.left" timestamp="1597282067059">
+      <screen x="0" y="0" width="1463" height="874" />
     </state>
     <state width="1323" height="328" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1596526114870" />
-    <state width="1323" height="328" key="GridCell.Tab.2.right" timestamp="1596526114870">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1420" height="359" key="GridCell.Tab.2.left/0.0.1463.874@0.0.1463.874" timestamp="1597282067059" />
+    <state width="1420" height="359" key="GridCell.Tab.2.right" timestamp="1597282067059">
+      <screen x="0" y="0" width="1463" height="874" />
     </state>
     <state width="1323" height="328" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1596526114870" />
-    <state x="163" y="0" key="SettingsEditor" timestamp="1595474082946">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1420" height="359" key="GridCell.Tab.2.right/0.0.1463.874@0.0.1463.874" timestamp="1597282067059" />
+    <state x="175" y="0" key="SettingsEditor" timestamp="1596615577346">
+      <screen x="0" y="0" width="1463" height="874" />
     </state>
     <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1595474082946" />
+    <state x="175" y="0" key="SettingsEditor/0.0.1463.874@0.0.1463.874" timestamp="1596615577346" />
     <state width="691" height="379" key="XDebugger.FullValuePopup" timestamp="1595487443570">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -309,19 +379,24 @@
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/trend-trading-backtest-service/src/main/java/com/test/controller/BackTestController.java</url>
-          <line>24</line>
-          <option name="timeStamp" value="26" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/trend-trading-backtest-service/src/main/java/com/test/service/BackTestService.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="27" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/index-data-service/src/main/java/com/test/controller/indexDataController.java</url>
           <line>24</line>
           <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/trend-trading-backtest-service/src/main/java/com/test/service/BackTestService.java</url>
+          <line>113</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/trend-trading-backtest-service/src/main/java/com/test/service/BackTestService.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/trend-trading-backtest-service/src/main/java/com/test/service/BackTestService.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="40" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
